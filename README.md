@@ -1,4 +1,4 @@
-# parallel_miniz_compression_openmp
+# Parallel_miniz_compression_openmp
 
 Overview
 Parallel compressor/decompressor using the Miniz library (DEFLATE algorithm) and OpenMP. Handles multiple small files and large files by splitting them into blocks while preserving compression context for correct decompression.
